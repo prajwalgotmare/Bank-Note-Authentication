@@ -3,6 +3,8 @@
 
 This project aims to classify bank notes as either genuine or fake based on four attributes - Variance, Skewness, Kurtosis, and Entropy. The dataset used for this project is obtained from the UCI Machine Learning Repository and is called "Bank Note Authentication UCI data".
 
+![Bank Note Image](https://www.neuraldesigner.com/images/banknote-authentication.webp)
+
 ## Problem Statement
 
 Counterfeit bank notes are a major problem faced by the bank industry. With the advancement of technology, it is becoming increasingly difficult to differentiate between a genuine bank note and a fake one. The goal of this project is to build a machine learning model that can accurately classify bank notes as either genuine or fake.
@@ -27,6 +29,7 @@ To run this project, you need to have the following packages installed:
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Conclusion
+
+## Conclusion
 
 In this project, we have attempted to build a machine learning model that can accurately classify bank notes as either genuine or fake. The results of this project will be useful for banks to detect counterfeit notes and ensure the security of their financial transactions.
